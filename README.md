@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @djagatiya
+- 👀 I’m interested in data science 
